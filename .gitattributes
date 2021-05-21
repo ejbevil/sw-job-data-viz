@@ -1,4 +1,6 @@
 js/*.js linguist-detectable
 js/*.js -linguist-vendored
+index.html -linguist-vendored
+css/*.css -linguist-vendored
 images/langicons/*.svg linguist-vendored
 images/*.jpg linguist-vendored
