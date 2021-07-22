@@ -1,0 +1,4 @@
+*.js linguist-language=JavaScript
+*.js linguist-detectable
+*.js -linguist-vendored
+images/** linguist-vendored
